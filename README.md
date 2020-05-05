@@ -9,7 +9,7 @@
 
 + [Урок 7](https://col-veronica.github.io/lesson_7/ "7")- Первый сайт (html,css)
 
-+ [Урок 8](https://col-veronica.github.io/lesson_8/ "8")- Сетка Bootstrap
++ [Урок 8](https://col-veronica.github.io/Lesson_8/ "8")- Сетка Bootstrap
 
 + [Урок 9](https://col-veronica.github.io/lesson_9/ "9")- Урок 7 + Bootstrap
 
