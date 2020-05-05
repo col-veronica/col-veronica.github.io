@@ -1,11 +1,11 @@
 
 
 # **Кол Вероника**
-## ___Мои домашние задания___ 
+## Мои домашние задания: 
 
 + [Урок 4-5](https://col-veronica.github.io/lesson_4-5/ "4-5") - Верстка книги (html, css)
 
-+ [Урок 6](https://col-veronica.github.io/lesson_6/ "6") - Тренеровка позиционирования
++ [Урок 6](https://col-veronica.github.io/lesson_6/ "6") - Тренировка позиционирования
 
 + [Урок 7](https://col-veronica.github.io/lesson_7/ "7") - Первый сайт (html,css)
 
