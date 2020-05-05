@@ -1,0 +1,116 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	font-family: Tahoma, sans-serif;
+	line-height: 1.5;
+	color: #333;
+}
+.section {
+	padding: 30px 10%;
+}
+.header {
+	margin-top: 80px;
+	text-align: center;
+	font-size: 24px;
+}
+.header span {
+	font-weight: 400;
+	display: block;
+}
+.header strong {
+	font-weight: 900;
+	text-transform: uppercase;
+}
+.main {
+	text-align: center;
+	margin-top: 80px;
+}
+.video {
+	display: inline-block;
+	vertical-align: top;
+}
+.form {
+	display: inline-block;
+	vertical-align: top;	
+	margin-left: 30px;
+	text-align: center; 
+	/*text-align: for button, inline element */
+	border: 5px solid #2727d9;
+	padding: 20px;
+}
+.form-header {
+	text-align: center;
+	font-size: 20px;
+	font-weight: 900;
+	margin-bottom: 20px;
+}
+.form input {
+	display: block;
+	margin-top: 10px;
+	width: 300px;
+	padding: 17px;
+	bottom: solid #333;
+	font-size: 18px;
+}
+.btn {
+	font-size: 18px;
+	font-weight: 900;
+	color: #fff;
+	background-color: #2727d9;
+	border: none;
+	width: 300px;
+	height: 60px;
+	display: block;
+	margin: 11px auto;
+}
+
+
+.col {
+	display: inline-block;
+	text-align: center;
+	margin: 10px 50px;
+}
+
+h2 {
+	text-align: center;
+	margin: 30px;
+	text-transform: uppercase;
+	font-weight: 900;
+	font-size: 24px;
+}
+.feature {
+	text-align: center;
+	margin: 60px auto;
+}
+
+.clients {
+	text-align: center;
+	margin: 60px 0;
+}
+.client-photo {
+	display: inline-block;
+	margin: 20px 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
