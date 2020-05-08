@@ -14,3 +14,12 @@
 + [Урок 9](https://col-veronica.github.io/lesson_9/ "9") - Урок 7 + Bootstrap
 
 + [Урок 10](https://col-veronica.github.io/lesson_10/ "10") - Less
+
++ [Урок 12](https://col-veronica.github.io/lesson_12/ "12") - Форма - Pixel Perfect
+
++ [Урок 13](https://col-veronica.github.io/lesson_13/ "13") - Шапка сайта
+
++ [Урок 14](https://col-veronica.github.io/lesson_14/ "14") - Подключение шрифтов
+
+
+
