@@ -21,7 +21,7 @@
 
 + [Урок 14](https://col-veronica.github.io/lesson_14_1/ "14") - Подключение шрифтов
 
-+ [Урок 15](https://col-veronica.github.io/lesson_15/ "15") - Первый экран,подключение шрифтов
++ [Урок 15](https://col-veronica.github.io/lesson_15-1/ "15") - Первый экран,подключение шрифтов
 
 
 
