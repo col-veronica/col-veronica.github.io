@@ -1,24 +1,13 @@
 @font-face {
     font-family: 'Lato';
-    src: url('../fonts/Lato-Regular.eot');
-    src: url('../fonts/Lato-Regular.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/Lato-Regular.woff2') format('woff2'),
-        url('../fonts/Lato-Regular.woff') format('woff'),
-        url('../fonts/Lato-Regular.ttf') format('truetype'),
-        url('../fonts/Lato-Regular.svg#Lato-Regular') format('svg');
-    font-weight: normal;
+    src: url('../fonts/Lato-Light.eot');
+    src: url('../fonts/Lato-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Lato-Light.woff2') format('woff2'),
+        url('../fonts/Lato-Light.woff') format('woff'),
+        url('../fonts/Lato-Light.ttf') format('truetype'),
+        url('../fonts/Lato-Light.svg#Lato-Light') format('svg');
+    font-weight: 300;
     font-style: normal;
-}
-@font-face {
-    font-family: 'Lato';
-    src: url('../fonts/Lato-ThinItalic.eot');
-    src: url('../fonts/Lato-ThinItalic.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/Lato-ThinItalic.woff2') format('woff2'),
-        url('../fonts/Lato-ThinItalic.woff') format('woff'),
-        url('../fonts/Lato-ThinItalic.ttf') format('truetype'),
-        url('../fonts/Lato-ThinItalic.svg#Lato-ThinItalic') format('svg');
-    font-weight: 100;
-    font-style: italic;
 }
 @font-face {
     font-family: 'Bebas';
@@ -56,7 +45,6 @@ small {
 }
 .lato {
 	font-family: 'Lato', sans-serif;
-	font-style: italic;
 }
 .lobster {
 	font-family: 'Lobster', cursive;
