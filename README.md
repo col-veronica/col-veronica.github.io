@@ -23,6 +23,10 @@
 
 + [Урок 15](https://col-veronica.github.io/lesson_15_1/ "15") - Первый экран,подключение шрифтов
 
++ [Урок 16](https://col-veronica.github.io/lesson_16_1/ "16") - Псевдоклассы и псевдоэлементы
+
+
+
 
 
 
