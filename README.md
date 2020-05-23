@@ -29,6 +29,8 @@
 
 + [Урок 18](https://col-veronica.github.io/lesson_18/ "18") - Слайдер на сайте
 
++ [Урок 19](https://col-veronica.github.io/lesson_19/ "19") - Верстка блока с преимуществами,cлайдер
+
 
 
 
