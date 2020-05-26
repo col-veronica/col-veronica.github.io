@@ -31,6 +31,14 @@
 
 + [Урок 19](https://col-veronica.github.io/lesson_19/ "19") - Верстка блока с преимуществами,cлайдер
 
++ [Урок 20](https://col-veronica.github.io/lesson_20/ "20") - Всплывающее окно
+
++ [Урок 21](https://col-veronica.github.io/lesson_21/ "21") - Верстка всплывающих окон на сайте
+
++ [Урок 22-1](https://col-veronica.github.io/Lesson_22_form/ "22") - Форма с табами
+
++ [Урок 22-2](https://col-veronica.github.io/Lesson_22_akordeon/ "22") - Аккордеон
+
 
 
 
