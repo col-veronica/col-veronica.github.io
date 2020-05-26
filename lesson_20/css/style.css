@@ -1,0 +1,57 @@
+.button-start {
+  width: 200px;
+  margin: 36px 5px;
+  font-size: 16px;
+  font-weight: 500;
+  background-color: #b3382c;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 10px;
+}
+.button-start:hover {
+  background-color: #e74c3c;
+  -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.modal-c {
+  width: 516px;
+  height: 250px;
+  background-color: #e74c3c;
+  border-radius: 6px;
+}
+.modal-h {
+  background-color: #d44637;
+  border-radius: 6px;
+  padding: 14px 20px;
+}
+.modal-title {
+  margin-left: 14px;
+  font-size: 22px;
+  font-weight: 500;
+  color: #fff;
+}
+.modal-b {
+  text-align: center;
+  padding-top: 40px;
+}
+.modal-b p {
+  font-size: 18px;
+  color: #fff;
+}
+.modal-f {
+  text-align: center;
+}
+.modal-f .btn {
+  width: 130px;
+  margin: 36px 5px;
+  font-size: 16px;
+  background-color: #b3382c;
+  color: #fff;
+  padding: 10px 0;
+}
+.modal-f .btn:hover {
+  background-color: #a8372b;
+  -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

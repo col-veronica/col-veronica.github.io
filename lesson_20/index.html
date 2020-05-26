@@ -1,0 +1,68 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+   
+    <link rel="icon" href="img/Logo( Passion)3.png">
+
+    <title> Всплывающее окно -</title>
+    <!-- Reset CSS -->
+    <link rel="stylesheet" href="css/reset.min.css">
+    <!-- Font-Roboto -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap" rel="stylesheet">
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <!-- Стили -->
+    <link href="css/style.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+      <div class="container">
+        <button class=" button-start" data-toggle="modal" data-target="#my-modal">Удалить файл</button>
+      </div>
+
+      <!-- Модальное окно от Bootstrap-->
+      <div class="modal fade" id="my-modal">
+        <!-- Само белое модальное окно -->
+        <div class="modal-dialog" role="document">
+          <!-- Содержимое Модального окна -->
+          <div class="modal-c">
+            <!-- Шапка модального окна -->
+            <div class="modal-h">
+              <!-- Кнопка закрыть -->
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <img src="img/cross.png" alt="close">
+              </button>
+              <!-- Заголовок модального окна -->
+              <h4 class="modal-title">Удалить Файл</h4>
+            </div>
+            <!-- Тело модального окна -->
+            <div class="modal-b">
+              <p>Вы действительно  хотите удалить файл?</p>
+              
+            </div>
+            <!-- Подвал модального окна -->
+            <div class="modal-f">
+              <button type="button" class="btn button " data-dismiss="modal">Да</button>
+              <button type="button" class="btn button">Нет</button>
+            </div>
+          </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+      </div><!-- /.modal -->
+
+       
+
+    
+    <!-- Библиотека jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Для модальных окон от Bootstrap - js-файлы -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    
+    
+  </body>
+</html>
