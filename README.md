@@ -39,6 +39,8 @@
 
 + [Урок 22-2](https://col-veronica.github.io/Lesson_22_akordeon/ "22") - Аккордеон
 
++ [Урок 23](https://col-veronica.github.io/lesson_23/ "23") - Верстка блока с ценами
+
 
 
 
