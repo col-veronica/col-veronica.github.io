@@ -1,0 +1,144 @@
+@font-face {
+font-family: 'Myriad Pro Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Myriad Pro Regular'), url('MYRIADPRO-REGULAR.woff') format('woff');
+}
+body {
+	line-height: none;
+}
+
+
+
+
+/*Анимация*/
+
+@keyframes color_change { 
+from {
+background: #007972;
+}
+to,
+}
+
+.form-content {
+	/*text-align: center;*/
+}
+.fon {
+	background: #ffffff url(../img/fon.png) center center no-repeat;
+	margin-top: 30px;
+	padding: 24px 80px 40px 80px;
+	animation: color_change  12s ease-out;
+}
+.nav-tabs {
+	border: none;
+	margin-left: 30px;
+
+}
+/*При навидении*/
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus{
+	font-size: 20px;
+	color: #fff;
+	background: #03a5da;
+	border: none;
+	padding: 7px 30px;
+	margin-right: 5px;
+}
+/*По умолчания*/
+.nav-tabs > li > a {
+	font-size: 20px;
+	color: #080808;
+	background: #fff;
+	padding: 6px 12px;
+
+}
+}
+.blue-container {
+	height: auto;
+	width: auto;
+	background-color: #03a5da;
+	border-radius: 4px;
+	padding: 20px;
+}
+.black-container {
+	background-color: #000;
+	border: 24px solid #03a5da;
+	border-radius: 5px;
+	padding: 40px 45px 15px 45px;
+}
+input {
+	width: 450px;
+	font-size: 20px;
+	background: #191818;
+	padding: 12px 0;
+	padding-left: 20px;
+	border: none;
+	margin-bottom: 18px;
+	margin-top: 15px;
+}
+ ::placeholder {
+	color: #fff;
+}
+.black-container a {
+	font-size: 15px;
+	color: #c51f03;
+	text-align: left;
+	margin-left: 20px;
+	margin-top: -10px;
+}
+#remind {
+	display: inline-block;
+	width: 15px;
+}
+.remind {
+	margin-left: 20px;
+	margin-top: 50px;
+}
+.remind label {
+	margin-left: 10px;
+	color: #6f6d6d;
+}
+.button {
+	display: inline-block;
+	
+ 
+}
+
+button {
+	width: 126px;
+	height: 40px;
+	background-image: -moz-radial-gradient( 50% 50%, circle  rgb(207,35,3) 0%, rgb(127,5,1) 100%);
+  	background-image: -webkit-radial-gradient( 50% 50%, circle  rgb(207,35,3) 0%, rgb(127,5,1) 100%);
+  	background-image: -ms-radial-gradient( 50% 50%, circle  rgb(207,35,3) 0%, rgb(127,5,1) 100%);
+	border: none;
+	box-shadow: 0 7px 10px rgba(0,0,0,0.9);
+	font-size: 22px;
+	color: #fff;
+	padding-right: 28px;
+	margin-left: 415px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
