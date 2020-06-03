@@ -41,7 +41,7 @@
 
 + [Урок 23](https://col-veronica.github.io/lesson_23/ "23") - Верстка блока с ценами
 
-+ [Урок 24](https://col-veronica.github.io/lesson_24/ "24") - Анимация для формы
++ [Урок 24](https://col-veronica.github.io/Lesson_24/ "24") - Анимация для формы
 
 
 
